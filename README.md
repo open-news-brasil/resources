@@ -9,9 +9,12 @@
 |-|-|-|
 | [profile.svg](./assets/svg/profile.svg) | [profile.png](./assets/png/profile.png) | <img src="./assets/png/profile.png" style="max-width: 300px"> |
 | [banner-horizontal.svg](./assets/svg/banner-horizontal.svg) | [banner-horizontal.png](./assets/png/banner-horizontal.png) | <img src="./assets/png/banner-horizontal.png" style="max-width: 300px"> |
-| [bot-caco-profile.svg](./assets/svg/bot-caco-profile.svg) | [bot-caco-profile.png](./assets/png/bot-caco-profile.png) | <img src="./assets/png/bot-caco-profile.png" style="max-width: 300px"> |
-| [bot-gloria-profile.svg](./assets/svg/bot-gloria-profile.svg) | [bot-gloria-profile.png](./assets/png/bot-gloria-profile.png) | <img src="./assets/png/bot-gloria-profile.png" style="max-width: 300px"> |
-| [bot-rachel-profile.svg](./assets/svg/bot-rachel-profile.svg) | [bot-rachel-profile.png](./assets/png/bot-rachel-profile.png) | <img src="./assets/png/bot-rachel-profile.png" style="max-width: 300px"> |
+| [bot-rep1-profile.svg](./assets/svg/bot-rep1-profile.svg) | [bot-rep1-profile.png](./assets/png/bot-rep1-profile.png) | <img src="./assets/png/bot-rep1-profile.png" style="max-width: 300px"> |
+| [bot-rep2-profile.svg](./assets/svg/bot-rep2-profile.svg) | [bot-rep2-profile.png](./assets/png/bot-rep2-profile.png) | <img src="./assets/png/bot-rep2-profile.png" style="max-width: 300px"> |
+| [bot-rep3-profile.svg](./assets/svg/bot-rep3-profile.svg) | [bot-rep3-profile.png](./assets/png/bot-rep3-profile.png) | <img src="./assets/png/bot-rep3-profile.png" style="max-width: 300px"> |
+| [bot-rep4-profile.svg](./assets/svg/bot-rep4-profile.svg) | [bot-rep4-profile.png](./assets/png/bot-rep4-profile.png) | <img src="./assets/png/bot-rep4-profile.png" style="max-width: 300px"> |
+| [bot-rep5-profile.svg](./assets/svg/bot-rep5-profile.svg) | [bot-rep5-profile.png](./assets/png/bot-rep5-profile.png) | <img src="./assets/png/bot-rep5-profile.png" style="max-width: 300px"> |
+| [bot-rep6-profile.svg](./assets/svg/bot-rep6-profile.svg) | [bot-rep6-profile.png](./assets/png/bot-rep6-profile.png) | <img src="./assets/png/bot-rep6-profile.png" style="max-width: 300px"> |
 
 ## Utils
 
