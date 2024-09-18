@@ -8,6 +8,7 @@
 | SVG | PNG | Preview |
 |-|-|-|
 | [profile.svg](./assets/svg/profile.svg) | [profile.png](./assets/png/profile.png) | <img src="./assets/png/profile.png" style="max-width: 300px"> |
+| [banner-horizontal.svg](./assets/svg/banner-horizontal.svg) | [banner-horizontal.png](./assets/png/banner-horizontal.png) | <img src="./assets/png/banner-horizontal.png" style="max-width: 300px"> |
 
 ## Utils
 
